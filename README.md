@@ -9,6 +9,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemoymoy&layout=compact)](https://github.com/nemoymoy/github-readme-stats)
 
 # My photo
-[My photo](https://github.com/nemoymoy/Git_Pages/blob/main/my_photo.jpg)
+## HTML
+<img src="https://github.com/nemoymoy/Git_Pages/blob/main/my_photo.jpg" alt="my_photo" width="300"/>
+
+## Markdown
+
+![My photo](https://github.com/nemoymoy/Git_Pages/blob/main/my_photo.jpg?raw=true)
 
 
